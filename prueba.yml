@@ -1,0 +1,13 @@
+---
+Desploy:
+  -DB: Emerix.database
+  -Servidor_DB: Srvazdb
+  -APP: Emerix
+  -Servidor_APP: srvazapp
+  -Cantidad_Servidor: 1
+Mostrar_resultado: "Hola Mundo"
+Comentario: >
+        Hola mundo!
+        
+---
+        
